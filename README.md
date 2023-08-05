@@ -90,7 +90,7 @@ COPYRIGHT
 ---------
 
 2017-2021 Ramil Nugmanov
-<nougmanoff@protonmail.com> main developer
+<nougmanoff@protonmail.com>
 
 2021-2022 Timur Madzhidov
 <tmadzhidov@gmail.com>
@@ -101,6 +101,9 @@ COPYRIGHT
 CONTRIBUTORS
 ------------
 
+* Ramil Nugmanov - main developer
+  <nougmanoff@protonmail.com>
+  
 * Adelia Fatykhova <adelik21979@gmail.com>
   
 * Salavat Zabirov 
