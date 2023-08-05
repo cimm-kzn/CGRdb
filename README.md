@@ -89,10 +89,28 @@ Note: virtual environment should contain in bin directory activate_this.py scrip
 COPYRIGHT
 ---------
 
-2017-2021 Ramil Nugmanov <nougmanoff@protonmail.com>
+2017-2021 Ramil Nugmanov
+<nougmanoff@protonmail.com> main developer
+
+2021-2022 Timur Madzhidov
+<tmadzhidov@gmail.com>
+
+2022-2023 Timur Gimadiev
+<timur.gimadiev@gmail.com>
 
 CONTRIBUTORS
 ------------
 
 * Adelia Fatykhova <adelik21979@gmail.com>
-* Salavat Zabirov <zab.sal42@gmail.com>
+  
+* Salavat Zabirov 
+<zab.sal42@gmail.com>
+
+SUPERVISION
+------------
+  
+2017-2022 Timur Madzhidov
+<tmadzhidov@gmail.com>
+
+
+
