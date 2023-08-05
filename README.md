@@ -112,7 +112,7 @@ CONTRIBUTORS
 SUPERVISION
 ------------
   
-2017-2022 Timur Madzhidov
+Timur Madzhidov
 <tmadzhidov@gmail.com>
 
 
